@@ -1,2 +1,3 @@
-<h1>hello this is a test repo
-</h1>
+# hello this is a test repo
+## this is second header
+### this is thurd header
